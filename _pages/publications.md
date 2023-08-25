@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single-pub.html %}
 {% endfor %}
+
+<font size='3'>* co-first author</font>
