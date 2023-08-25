@@ -12,4 +12,4 @@ I am a PhD student in Electronic Engineering at Queen Mary University of London 
 
 Previously I was a software engineer at Intel from 2019 to 2020. I interned at Tencent in [Media Lab](https://avlab.qq.com/) headed by [Dr. Shan Liu](https://scholar.google.com/citations?user=bdBZ43wAAAAJ&hl=en) in summer 2018.
 
-My research interests include machine learning and computer vision, with a focus on object tracking, GAN and unsupervised representation learning.
+My research interests include machine learning and computer vision, with a focus on object tracking, GAN and self-supervised representation learning.
