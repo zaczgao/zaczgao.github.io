@@ -17,14 +17,11 @@ Education
 
 Work experience
 ======
-* Aug. 2024 - : Research scientist
-  * Huawei
+* Aug. 2024 - : Research scientist @ Huawei
   
-* Jul. 2019 - Aug. 2020: Software Engineer
-  * Intel
+* Jul. 2019 - Aug. 2020: Software Engineer @ Intel
 
-* Jun. 2018 - Aug. 2018: Internship
-  * Tencent Media Lab
+* Jun. 2018 - Aug. 2018: Internship @ Tencent Media Lab
 
 Skills
 ======
