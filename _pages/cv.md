@@ -13,15 +13,19 @@ Education
 ======
 * BSc in Communication Engineering, Harbin Institute of Technology, 2017
 * MSc in Information and Communication Engineering, Harbin Institute of Technology, 2019
+* PhD in Electronics Engineering, Queen Mary University of London, 2024
 
 Work experience
 ======
+* Aug. 2024 - : Research scientist
+  * Huawei
+  
+* Jul. 2019 - Aug. 2020: Software Engineer
+  * Intel
+
 * Jun. 2018 - Aug. 2018: Internship
   * Tencent Media Lab
 
-* Jul. 2019 - Aug. 2020: Software Engineer
-  * Intel
-  
 Skills
 ======
 * C/C++, Python, Matlab
