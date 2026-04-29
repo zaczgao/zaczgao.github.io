@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-29'
 papers:
   SXJFLpAAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -26,7 +26,7 @@ papers:
     title: Supplementary Material for Self-Supervised Facial Representation Learning with Facial Region Awareness
     year: Unknown Year
   SXJFLpAAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 3
     title: Frequency-guided diffusion for training-free text-driven image translation
     year: '2025'
   SXJFLpAAAAAJ:d1gkVwhDpl0C:
@@ -42,6 +42,6 @@ papers:
     title: Sparse feature learning for correlation filter tracking toward 5G-enabled tactile Internet
     year: '2019'
   SXJFLpAAAAAJ:zYLM7Y9cAGgC:
-    citations: 42
+    citations: 43
     title: Self-supervised facial representation learning with facial region awareness
     year: '2024'
