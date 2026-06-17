@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-17'
 papers:
   SXJFLpAAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -41,7 +41,11 @@ papers:
     citations: 48
     title: Sparse feature learning for correlation filter tracking toward 5G-enabled tactile Internet
     year: '2019'
+  SXJFLpAAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: Supplementary Material for Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features
+    year: Unknown Year
   SXJFLpAAAAAJ:zYLM7Y9cAGgC:
-    citations: 44
+    citations: 47
     title: Self-supervised facial representation learning with facial region awareness
     year: '2024'
