@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-17'
 papers:
   SXJFLpAAAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -46,6 +46,6 @@ papers:
     title: Supplementary Material for Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features
     year: Unknown Year
   SXJFLpAAAAAJ:zYLM7Y9cAGgC:
-    citations: 47
+    citations: 48
     title: Self-supervised facial representation learning with facial region awareness
     year: '2024'
