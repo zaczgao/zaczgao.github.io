@@ -31,5 +31,6 @@ I completed my PhD in Computer Vision at Queen Mary University of London (QMUL) 
 Previously, I was a software engineer at Intel (2019-2020) and an intern at [Tencent Media Lab](https://multimedia.tencent.com/) (2018 summer).
 
 **Research Interests:**
+- Video controllable generation and long-horizon generation
+- Image generation, editing and face related generation
 - Self-supervised pre-training (SSL) for classification/detection/facial analysis tasks
-- Image generation, editing and face related generation (diffusion)
