@@ -1,17 +1,13 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-03'
 papers:
   SXJFLpAAAAAJ:2osOgNQ5qMEC:
-    citations: 9
+    citations: 10
     title: Self-supervised representation learning with cross-context learning between global and hypercolumn features
     year: '2024'
   SXJFLpAAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Supplementary Material for Self-Supervised Representation Learning with Cross-Context Learning between Global and Hypercolumn Features
-    year: Unknown Year
-  SXJFLpAAAAAJ:Tyk-4Ss8FVUC:
-    citations: 0
-    title: Semantic-Guided Consistency and Discrimination for Siamese Representation Learning
     year: Unknown Year
   SXJFLpAAAAAJ:W7OEmFMy1HYC:
     citations: 0
@@ -35,10 +31,10 @@ papers:
     year: '2019'
   SXJFLpAAAAAJ:eQOLeE2rZwMC:
     citations: 2
-    title: Training-Free Generation of Diverse and High-Fidelity Images via Prompt Semantic Space Optimization
+    title: Training-free generation of diverse and high-fidelity images via prompt semantic space optimization
     year: '2025'
   SXJFLpAAAAAJ:u5HHmVD_uO8C:
-    citations: 48
+    citations: 49
     title: Sparse feature learning for correlation filter tracking toward 5G-enabled tactile Internet
     year: '2019'
   SXJFLpAAAAAJ:ufrVoPGSRksC:
