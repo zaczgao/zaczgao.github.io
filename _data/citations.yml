@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-19'
 papers:
   SXJFLpAAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -25,6 +25,10 @@ papers:
     citations: 3
     title: Frequency-guided diffusion for training-free text-driven image translation
     year: '2025'
+  SXJFLpAAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Semantic-Guided Consistency and Discrimination for Siamese Representation Learning
+    year: Unknown Year
   SXJFLpAAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: UAV Tracking with Proposals Based on Optical Flow
@@ -42,6 +46,6 @@ papers:
     title: Supplementary Material for Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features
     year: Unknown Year
   SXJFLpAAAAAJ:zYLM7Y9cAGgC:
-    citations: 48
+    citations: 49
     title: Self-supervised facial representation learning with facial region awareness
     year: '2024'
